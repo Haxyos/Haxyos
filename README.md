@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on chess game in C
+- 🌱 I’m currently learning many different language (C, C#, Java, JavaScript, CSS, PHP, etc);
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello ! I'm a little developper currently studying in Computer Science. \n
+Hello ! I'm a little developper currently studying in Computer Science.
+
 🔭 I’m currently working on a chess game in C
-🌱 I’m currently learning many different language (C, C#, Java, JavaScript, CSS, PHP, etc);
+🌱 I’m currently learning 
