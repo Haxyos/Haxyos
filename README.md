@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello ! I'm a little developper currently studying in Computer Science. 
+Hello ! I'm a little developper currently studying in Computer Science. \n
 🔭 I’m currently working on a chess game in C
 🌱 I’m currently learning many different language (C, C#, Java, JavaScript, CSS, PHP, etc);
