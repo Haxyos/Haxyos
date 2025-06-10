@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello ! I'm a little developper currently studying in Computer Science. 
+🔭 I’m currently working on a chess game in C
+🌱 I’m currently learning many different language (C, C#, Java, JavaScript, CSS, PHP, etc);
