@@ -1,4 +1,4 @@
-## Hi there 👋
+#### Hi there 👋
 
 Hello ! I'm a little developper currently studying in Computer Science.
 
@@ -11,7 +11,7 @@ Hello ! I'm a little developper currently studying in Computer Science.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haxyos&layout=compact&theme=radical)
 
-##Here is some things I know :
+# Here is some things I know :
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
