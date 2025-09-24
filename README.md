@@ -4,7 +4,10 @@ Hello ! I'm a little developper currently studying in Computer Science.
 
 - 🔭 I’m currently working on chess game in C
 - 🌱 I’m currently learning many different language (C, C#, Java, JavaScript, CSS, PHP, etc);
-- 📫 How to reach me: ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) delacoudrew@gmail.com, ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) https://www.instagram.com/haxyos_/, ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) github
+- 📫 How to reach me:
+- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)   delacoudrew@gmail.com
+- ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)   https://www.instagram.com/haxyos_/
+- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)   github
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haxyos&layout=compact&theme=radical)
 
