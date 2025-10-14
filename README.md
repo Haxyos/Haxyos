@@ -11,6 +11,7 @@ Hello ! I'm a little developper currently studying in Computer Science.
   ## My leetcode account :
   https://leetcode.com/u/haxyos/
 
+## Some stats about my github account :
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haxyos&layout=compact&theme=radical)
 ![Haxyos's GitHub stats](https://github-readme-stats.vercel.app/api?username=haxyos&show_icons=true&theme=transparent)
