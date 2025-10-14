@@ -8,6 +8,9 @@ Hello ! I'm a little developper currently studying in Computer Science.
 - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)   delacoudrew@gmail.com
 - ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)   https://www.instagram.com/haxyos_/
 
+  ## My leetcode account :
+  https://leetcode.com/u/haxyos/
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haxyos&layout=compact&theme=radical)
 ![Haxyos's GitHub stats](https://github-readme-stats.vercel.app/api?username=haxyos&show_icons=true&theme=transparent)
