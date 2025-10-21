@@ -13,8 +13,10 @@ Hello ! I'm a little developper currently studying in Computer Science.
 
 ## Some stats about my github account :
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haxyos&layout=compact&theme=radical)
 ![Haxyos's GitHub stats](https://github-readme-stats.vercel.app/api?username=haxyos&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haxyos&layout=compact&theme=radical)
+
 
 ## Here is some things I know :
 
