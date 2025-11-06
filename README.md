@@ -2,7 +2,7 @@
 
 Hello ! I'm a little developper currently studying in Computer Science.
 
-- 🔭 I’m currently working on chess game in C
+- 🔭 I’m currently working on the Eltic website
 - 🌱 I’m currently learning many different language (C, C#, Java, JavaScript, CSS, PHP, etc);
 - 📫 How to reach me:
 - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)   delacoudrew@gmail.com
